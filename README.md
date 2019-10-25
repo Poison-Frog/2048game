@@ -4,3 +4,4 @@
 * 兼容了移动端的滑动手势操作
 * 包含分数统计，历史最高分数，重新开始、游戏记录缓存等功能
 ![image.txt](https://ws3.sinaimg.cn/large/006tKfTcly1ffzst6aw3wj30j60wggn9.jpg)
+* [点击试玩](https://poison-frog.github.io/2048game/index)
